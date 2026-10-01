@@ -6,11 +6,6 @@
 
 I build full-stack products across web and mobile, and work across the AI/ML lifecycle—from engineering models to operating them in production.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akanov-Kanta)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazar-akanov-7554a92bb/)
-[![Bariweb](https://img.shields.io/badge/Bariweb-5A45FF?style=for-the-badge&logo=vercel&logoColor=white)](https://bariweb-livid.vercel.app/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akanovn)
-
 </div>
 
 ---
@@ -30,7 +25,9 @@ I build full-stack products across web and mobile, and work across the AI/ML lif
 | **Bailanysta · Twittgram** | A lightweight social feed for publishing posts, liking, and commenting, built with Next.js, Supabase, React, Tailwind CSS, and Framer Motion. | [GitHub](https://github.com/Akanov-Kanta/Bailanysta) · [Live demo](https://bailanysta-murex.vercel.app/) |
 | **Courses** | A Flutter app for course schedules and topic-based learning. | [GitHub](https://github.com/Akanov-Kanta/Courses) |
 
-## 🧰 Tools & technologies
+## 🧰 Skills & technologies
+
+**Full-stack development**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -40,7 +37,29 @@ I build full-stack products across web and mobile, and work across the AI/ML lif
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=000000)
+
+**AI & machine learning**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Hugging_Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=000000)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+
+**MLOps**
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Weights_&_Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=000000)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat&logo=dvc&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Apache_Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+
+**Focus areas:** LLM applications · RAG · model fine-tuning · AI agents · model evaluation · NLP · computer vision
 
 ## 🤝 Connect
 
