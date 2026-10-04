@@ -28,13 +28,13 @@ My flagship is **[Bariweb](https://github.com/Akanov-Kanta/bariweb)**, an AI age
 
 | Achievement | Year |
 |---|---|
-| 🥇 **Gold**, NIS AI Olympiad (150 students) | 2024 |
-| 🥈 **Silver**, Republican Computer Science Olympiad | 2023 |
+| 🥉 **Bronze (Absolute 8)**, International AI Olympiad FAIO: 7 countries, 500 teams | |
+| 🥇 **Gold**, NIS AI Olympiad (2K+ students) | 2024 |
+| 🥈 **Silver**, National Computer Science Olympiad | 2023 |
 | 🥉 **Bronze ×2**, National AI Olympiad | 2023, 2024 |
-| 🥉 **Bronze (Top 8)**, Fizmat AI Olympiad: 7 countries, 500 teams | |
 | 🏆 **1st place**, Digitalization Day Hackathon (regional), $1K prize | |
-| 🌎 **FLEX Finalist** (3% acceptance rate), exchange year in Georgia, USA | 2024–2025 |
-| ⭐ **Student of the Year**, NIS Petropavlovsk · **Student of the Month**, FLEX finalist cohort | |
+| 🌎 **FLEX Finalist** (<1% acceptance rate), exchange year in Georgia, USA | 2024–2025 |
+
 
 <br>
 
