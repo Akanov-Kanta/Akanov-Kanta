@@ -1,84 +1,118 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c1d,55:2b2050,100:e8834a&height=220&section=header&text=Nazar%20Akanov&fontColor=ffffff&fontSize=64&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Kazakhstan&descSize=20&descAlignY=58&animation=fadeIn" alt="Nazar Akanov, AI and ML Engineer from Kazakhstan" width="100%" />
+</p>
 
-# 👋 Hi, I'm Nazar Akanov
+<p align="center">
+  <a href="https://portfolio-alpha-sandy-krad8msap8.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=E8834A&center=true&vCenter=true&width=640&lines=I+build+AI+agents+that+act%2C+not+just+chat;2x+medalist%2C+National+AI+Olympiad;Hackathon+winner+%C2%B7+FLEX+finalist;Web%2C+mobile%2C+and+the+models+behind+them" alt="I build AI agents that act, not just chat. Two-time medalist at the National AI Olympiad. Hackathon winner and FLEX finalist. Web, mobile, and the models behind them." />
+  </a>
+</p>
 
-### Full-Stack Engineer · AI/ML Engineer · MLOps
+<p align="center">
+  <a href="https://portfolio-alpha-sandy-krad8msap8.vercel.app"><img src="https://img.shields.io/badge/Portfolio-e8834a?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/nazar-akanov-7554a92bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/akanovn"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://x.com/AkanovNazar"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/akanov.nazar/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
-I build full-stack products across web and mobile, and work across the AI/ML lifecycle—from engineering models to operating them in production.
+I'm Nazar, an AI & ML engineer from Kazakhstan, olympiad medalist, hackathon winner, and FLEX exchange alum. I build AI products end to end: the models and retrieval underneath, the backend that serves them, and the web and mobile apps people actually touch.
 
-</div>
+My flagship is **[Bariweb](https://github.com/Akanov-Kanta/bariweb)**, an AI agent that makes any website accessible with a single script tag. It reads the page, pulls context from a vector index of the whole site, and then clicks, navigates and fills in forms for the user from a typed or spoken request in Kazakh, Russian or English.
 
----
+- **Building:** LLM agents that take real actions, RAG pipelines, voice interfaces
+- **Going deeper into:** fine-tuning and evaluation, NLP, computer vision, MLOps
+- **Shipping style:** from the model all the way to the CI/CD that deploys it
 
-## 🧭 What I work on
+## Track record
 
-- **Full-stack engineering** — building web and mobile experiences from interface to backend.
-- **AI & machine learning** — developing practical intelligent systems.
-- **MLOps** — bringing machine-learning work into reliable, maintainable production workflows.
+| Achievement | Year |
+|---|---|
+| 🥇 **Gold**, NIS AI Olympiad (150 students) | 2024 |
+| 🥈 **Silver**, Republican Computer Science Olympiad | 2023 |
+| 🥉 **Bronze ×2**, National AI Olympiad | 2023, 2024 |
+| 🥉 **Bronze (Top 8)**, Fizmat AI Olympiad: 7 countries, 500 teams | |
+| 🏆 **1st place**, Digitalization Day Hackathon (regional), $1K prize | |
+| 🌎 **FLEX Finalist** (3% acceptance rate), exchange year in Georgia, USA | 2024–2025 |
+| ⭐ **Student of the Year**, NIS Petropavlovsk · **Student of the Month**, FLEX finalist cohort | |
 
-## 🚀 Selected projects
+<br>
 
-| Project | What it does | Links |
-|---|---|---|
-| **Bariweb** | A B2B digital accessibility platform, built with a TypeScript and Python codebase. | [GitHub](https://github.com/Akanov-Kanta/bariweb) · [Live site](https://bariweb-livid.vercel.app/) |
-| **CodeHub** | Contributor to a Flutter and Firebase learning app that helps students prepare for computer-science exams with interactive lessons, coding practice, and progress tracking. | [GitHub](https://github.com/chillit/codeHub) |
-| **Bailanysta · Twittgram** | A lightweight social feed for publishing posts, liking, and commenting, built with Next.js, Supabase, React, Tailwind CSS, and Framer Motion. | [GitHub](https://github.com/Akanov-Kanta/Bailanysta) · [Live demo](https://bailanysta-murex.vercel.app/) |
-| **Courses** | A Flutter app for course schedules and topic-based learning. | [GitHub](https://github.com/Akanov-Kanta/Courses) |
+<p align="center">
+  <a href="https://portfolio-alpha-sandy-krad8msap8.vercel.app">
+    <img src="assets/portfolio.jpg" alt="My portfolio site: a low-poly 3D room at night with a glowing desk setup and the name Nazar Akanov in large dot-matrix letters" width="100%" />
+  </a>
+  <br>
+  <sub><b><a href="https://portfolio-alpha-sandy-krad8msap8.vercel.app">Step into my room →</a></b> &nbsp;A scroll-driven 3D portfolio built with React Three Fiber. The camera flies through the scene on an endless loop.</sub>
+</p>
 
-## 🧰 Skills & technologies
+## Featured work
 
-**Full-stack development**
+<p align="center">
+  <a href="https://bariweb.vercel.app"><img src="assets/bariweb.png" alt="Bariweb landing page: Make your site inclusive in 1 day" width="100%" /></a>
+</p>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Framer_Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+### [Bariweb](https://github.com/Akanov-Kanta/bariweb): an AI accessibility agent for any website
 
-**Full-stack practices:** API route handlers · authentication · real-time data · cloud deployment
+One `<script>` tag gives a site an accessibility toolbar and an AI agent that operates the page for the user. A Playwright crawler maps every interactive element on a customer's site, enriches it with intents and multilingual keywords, and indexes it in **Milvus**. At request time the agent retrieves the right elements and replies with executable actions (click, navigate, type). It also takes voice commands, handles Kazakh, Russian and English through KazLLM / Alem models, generates `alt` and `aria-label` fixes, traces every run in **Langfuse**, and installs from npm as [`bariweb-widget`](https://www.npmjs.com/package/bariweb-widget).
 
-**AI & machine learning**
+**My part:** backend and AI agent, the embeddable widget SDK, and DevOps (GitLab → GitHub migration and Vercel CI/CD).<br>
+`FastAPI` `LLM agents` `RAG` `Milvus` `RAGFlow` `Playwright` `PostgreSQL` `Lit` `Vercel`<br>
+[**Live**](https://bariweb.vercel.app) · [**Code**](https://github.com/Akanov-Kanta/bariweb) · [**npm**](https://www.npmjs.com/package/bariweb-widget)
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Hugging_Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=000000)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**MLOps**
+<a href="https://github.com/Akanov-Kanta/Bailanysta"><img src="assets/bailanysta.png" alt="Bailanysta profile page with a post composer and an AI idea button" width="100%" /></a>
 
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![Weights_&_Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=000000)
-![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat&logo=dvc&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Apache_Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+### [Bailanysta](https://github.com/Akanov-Kanta/Bailanysta)
 
-**Focus areas:** LLM applications · RAG · model fine-tuning · AI agents · model evaluation · NLP · computer vision
+A full-stack social network with a **GPT-4 writing assistant** built in. Users post, like and comment, and when they're stuck, one click drafts a post for them.
 
-## 🤝 Connect
+`Next.js 15` `React 19` `Supabase` `OpenAI` `Framer Motion`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazar-akanov-7554a92bb/)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/AkanovNazar)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/akanov.nazar/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/akanovn)
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
+<p align="center"><a href="https://github.com/Akanov-Kanta/Courses"><img src="assets/courses.png" alt="NIScourses student schedule screen on a phone" height="300" /></a></p>
 
-<sub>Building useful things across software, data, and AI.</sub>
+### [NIScourses](https://github.com/Akanov-Kanta/Courses)
 
-</div>
+A course-enrollment system for a whole school, with three roles, live seat counters and Excel export. Built by a team of three in 2023, **without any AI coding tools**.
+
+`Flutter` `Firebase Auth` `Realtime Database`
+
+</td>
+</tr>
+</table>
+
+### More builds
+
+- **[CodeHub](https://github.com/chillit/codeHub)**: a Flutter + Firebase learning platform for Python and C++ that has helped **200+ students across Kazakhstan** prepare for the national computer-science exam. Guided exercises with automatic error checking, hints based on the student's mistakes, roadmaps, progress tracking, and friend leaderboards. *(co-built, 2023–2025)*
+- **NeSkuchnoPTR**: a hackathon PWA that collects every cultural, social and public event in Petropavl into one feed. It scrapes local Instagram and Telegram channels to stay current, recommends events with AI based on what each user likes, works offline, sends push notifications, and syncs to Google Calendar. *(Flutter, 2024)*
+
+## Experience
+
+**Software Developer Intern, ANTIKOR** · May–July 2023<br>
+Built internal accounting tools and automated reporting workflows, with data validation that cut manual errors.
+
+## Toolkit
+
+**AI & ML**
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn&theme=dark" alt="Python, PyTorch, TensorFlow, scikit-learn" /><br>
+<sub>Hugging Face · LangChain · OpenAI API · Ollama · Milvus · Langfuse · NumPy · pandas</sub>
+
+**Full stack**
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,fastapi,flutter,dart,postgres,supabase,firebase&theme=dark" alt="TypeScript, React, Next.js, Tailwind CSS, FastAPI, Flutter, Dart, PostgreSQL, Supabase, Firebase" />
+
+**MLOps & cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,vercel,linux&theme=dark" alt="Docker, Kubernetes, GitHub Actions, Vercel, Linux" /><br>
+<sub>MLflow · Weights & Biases · DVC · Apache Airflow</sub>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8834a,45:2b2050,100:0f0c1d&height=120&section=footer" alt="" width="100%" />
+</p>
