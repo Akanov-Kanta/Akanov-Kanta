@@ -28,7 +28,7 @@ My flagship is **[Bariweb](https://github.com/Akanov-Kanta/bariweb)**, an AI age
 
 | Achievement | Year |
 |---|---|
-| 🥉 **Bronze (Absolute 8)**, International AI Olympiad FAIO: 7 countries, 500 teams | |
+| 🥉 **Bronze (Absolute 8)**, International AI Olympiad FAIO: 7 countries, 500 teams |2025 |
 | 🥇 **Gold**, NIS AI Olympiad (2K+ students) | 2024 |
 | 🥈 **Silver**, National Computer Science Olympiad | 2023 |
 | 🥉 **Bronze ×2**, National AI Olympiad | 2023, 2024 |
