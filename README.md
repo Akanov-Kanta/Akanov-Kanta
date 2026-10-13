@@ -18,8 +18,6 @@
 
 I'm Nazar, an AI & ML engineer from Kazakhstan, olympiad medalist, hackathon winner, and FLEX exchange alum. I build AI products end to end: the models and retrieval underneath, the backend that serves them, and the web and mobile apps people actually touch.
 
-My flagship is **[Bariweb](https://github.com/Akanov-Kanta/bariweb)**, an AI agent that makes any website accessible with a single script tag. It reads the page, pulls context from a vector index of the whole site, and then clicks, navigates and fills in forms for the user from a typed or spoken request in Kazakh, Russian or English.
-
 - **Building:** LLM agents that take real actions, RAG pipelines, voice interfaces
 - **Going deeper into:** fine-tuning and evaluation, NLP, computer vision, MLOps
 - **Shipping style:** from the model all the way to the CI/CD that deploys it
@@ -47,18 +45,6 @@ My flagship is **[Bariweb](https://github.com/Akanov-Kanta/bariweb)**, an AI age
 </p>
 
 ## Featured work
-
-<p align="center">
-  <a href="https://bariweb.vercel.app"><img src="assets/bariweb.png" alt="Bariweb landing page: Make your site inclusive in 1 day" width="100%" /></a>
-</p>
-
-### [Bariweb](https://github.com/Akanov-Kanta/bariweb): an AI accessibility agent for any website
-
-One `<script>` tag gives a site an accessibility toolbar and an AI agent that operates the page for the user. A Playwright crawler maps every interactive element on a customer's site, enriches it with intents and multilingual keywords, and indexes it in **Milvus**. At request time the agent retrieves the right elements and replies with executable actions (click, navigate, type). It also takes voice commands, handles Kazakh, Russian and English through KazLLM / Alem models, generates `alt` and `aria-label` fixes, traces every run in **Langfuse**, and installs from npm as [`bariweb-widget`](https://www.npmjs.com/package/bariweb-widget).
-
-**My part:** backend and AI agent, the embeddable widget SDK, and DevOps (GitLab → GitHub migration and Vercel CI/CD).<br>
-`FastAPI` `LLM agents` `RAG` `Milvus` `RAGFlow` `Playwright` `PostgreSQL` `Lit` `Vercel`<br>
-[**Live**](https://bariweb.vercel.app) · [**Code**](https://github.com/Akanov-Kanta/bariweb) · [**npm**](https://www.npmjs.com/package/bariweb-widget)
 
 <table>
 <tr>
