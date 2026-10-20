@@ -18,6 +18,8 @@
 
 I'm Nazar, an AI & ML engineer from Kazakhstan, olympiad medalist, hackathon winner, and FLEX exchange alum. I build AI products end to end: the models and retrieval underneath, the backend that serves them, and the web and mobile apps people actually touch.
 
+My flagship is **[Bariweb](https://bariweb.vercel.app)**, an AI agent that makes any website accessible with two lines of code. It reads the page, pulls context from a vector index of the whole site, and then clicks, navigates and fills in forms for the user from a typed or spoken request in Kazakh, Russian or English.
+
 - **Building:** LLM agents that take real actions, RAG pipelines, voice interfaces
 - **Going deeper into:** fine-tuning and evaluation, NLP, computer vision, MLOps
 - **Shipping style:** from the model all the way to the CI/CD that deploys it
@@ -46,22 +48,44 @@ I'm Nazar, an AI & ML engineer from Kazakhstan, olympiad medalist, hackathon win
 
 ## Featured work
 
+<p align="center">
+  <a href="https://bariweb.vercel.app"><img src="assets/bariweb.jpg" alt="Bariweb landing page: Make any website accessible with two lines of code, with the install snippet and the accessibility button in the bottom-left corner" width="100%" /></a>
+</p>
+
+### [Bariweb](https://github.com/Bariweb-ai): an AI accessibility agent for any website
+
+Two lines of code give a site an accessibility toolbar and an AI agent that operates the page for the user: *"pay my property tax"* and it opens the right section, fills in the form and presses the buttons, waiting for confirmation before anything is paid or submitted. Under the hood, a Playwright crawler maps every interactive element on a customer's site, enriches it with intents and multilingual keywords, and indexes it in **Milvus**. At request time the agent retrieves the right elements and replies with executable actions. It handles Kazakh, Russian and English by voice or text through KazLLM / Alem models, generates `alt` and `aria-label` fixes, traces every run in **Langfuse**, and installs from npm as [`bariweb-widget`](https://www.npmjs.com/package/bariweb-widget).
+
+**My part:** backend and AI agent, the embeddable widget SDK, and DevOps (GitLab → GitHub migration and Vercel CI/CD).<br>
+`FastAPI` `LLM agents` `RAG` `Milvus` `RAGFlow` `Playwright` `PostgreSQL` `Lit` `Vercel`<br>
+[**Live**](https://bariweb.vercel.app) · [**Organization**](https://github.com/Bariweb-ai) · [**npm**](https://www.npmjs.com/package/bariweb-widget)
+
+<br>
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%"><a href="https://ink-portfolio-shader.vercel.app"><img src="assets/pf-02-ink-shader.jpg" alt="Ink portfolio, shader variant: a red ink vortex behind the name" width="100%" /></a></td>
+<td width="50%"><a href="https://nazar-akanov.vercel.app"><img src="assets/pf-02-ink-hybrid.jpg" alt="Ink portfolio, hybrid variant: project cards wrapped in growing red veins and roses" width="100%" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://nazarakanov.vercel.app"><img src="assets/pf-03-ronin.jpg" alt="Ronin portfolio: a ronin with a straw hat on a temple roof in front of a giant moon" width="100%" /></a></td>
+<td width="50%"><a href="https://dossier-indol-psi.vercel.app"><img src="assets/pf-04-dossier.jpg" alt="Dossier portfolio: glowing hand-drawn spiral eyes on black" width="100%" /></a></td>
+</tr>
+</table>
 
-<a href="https://github.com/Akanov-Kanta/Bailanysta"><img src="assets/bailanysta.png" alt="Bailanysta profile page with a post composer and an AI idea button" width="100%" /></a>
+### [portfolios](https://github.com/Akanov-Kanta/portfolios): four portfolio sites, four different worlds
 
-### [Bailanysta](https://github.com/Akanov-Kanta/Bailanysta)
+Every portfolio I've built, open source in one repo. An **igloo.inc-style endless 3D scroll** through a low-poly dev room, a **red-ink anime edit** built on raw WebGL2 shaders, with a beat-synced soundtrack, a **ukiyo-e ronin short film** on a moonlit roof, and a **grayscale case file** of spiral eyes, ink bursts and a hard black-and-white inversion. Plus five bonus landing pages in the same ukiyo-e style.
 
-A full-stack social network with a **GPT-4 writing assistant** built in. Users post, like and comment, and when they're stuck, one click drafts a post for them.
+`Next.js 16` `React Three Fiber` `raw WebGL2` `GSAP` `Lenis` `Web Audio`<br>
+[**3D**](https://portfolio-alpha-sandy-krad8msap8.vercel.app) · [**Ink**](https://nazar-akanov.vercel.app) · [**Ronin**](https://nazarakanov.vercel.app) · [**Dossier**](https://dossier-indol-psi.vercel.app) · [**Code**](https://github.com/Akanov-Kanta/portfolios)
 
-`Next.js 15` `React 19` `Supabase` `OpenAI` `Framer Motion`
+<br>
 
-</td>
-<td width="50%" valign="top">
-
-<p align="center"><a href="https://github.com/Akanov-Kanta/Courses"><img src="assets/courses.png" alt="NIScourses student schedule screen on a phone" height="300" /></a></p>
+<table>
+<tr>
+<td width="35%" align="center"><a href="https://github.com/Akanov-Kanta/Courses"><img src="assets/courses.png" alt="NIScourses student schedule screen on a phone" height="300" /></a></td>
+<td width="65%" valign="top">
 
 ### [NIScourses](https://github.com/Akanov-Kanta/Courses)
 
