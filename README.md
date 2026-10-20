@@ -62,6 +62,20 @@ Two lines of code give a site an accessibility toolbar and an AI agent that oper
 
 <br>
 
+<p align="center">
+  <a href="https://github.com/Akanov-Kanta/hackathon_taraz"><img src="assets/sonar.jpg" alt="Four SONAR phone screens: sign-in, AI-assisted report creation, a resident's report tracker, and the volunteer incident queue" width="100%" /></a>
+</p>
+
+### [SONAR](https://github.com/Akanov-Kanta/hackathon_taraz): a smart city that watches out for its people
+
+A hackathon build from Taraz, shipped by a team in under two days. One platform with four workspaces: **residents** snap a photo of a missing ramp and **OpenAI Vision** drafts the report, **volunteers** run a live incident queue, the **akimat** validates, dispatches and publishes alerts, and **admins** moderate. Critical reports escalate into emergency incidents automatically, and an SOS button files both in one tap. Behind it, a FastAPI service runs **seven ML models**: an LSTM + XGBoost/CatBoost air-quality forecaster, a GNN-style message-passing + Dijkstra **wheelchair router** over a 597-node accessibility graph, traffic congestion, smart-meter anomaly detection, a crowd-aware recommender, a generative-design VAE and DistilBERT sentiment.
+
+**My part:** the Flutter app's architecture, Supabase wiring, maps, auth and government screens, plus the volunteer role.<br>
+`Flutter` `React` `Capacitor` `Supabase` `FastAPI` `PyTorch` `XGBoost` `OpenAI Vision` `Google Maps`<br>
+[**Code**](https://github.com/Akanov-Kanta/hackathon_taraz)
+
+<br>
+
 <table>
 <tr>
 <td width="50%"><a href="https://ink-portfolio-shader.vercel.app"><img src="assets/pf-02-ink-shader.jpg" alt="Ink portfolio, shader variant: a red ink vortex behind the name" width="100%" /></a></td>
